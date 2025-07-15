@@ -5,6 +5,12 @@ A simple 4-port USB 2.0 Hub designed using EasyEDA and custom PCB layout. This h
 ![USB Hub Render](usbhub.PNG)
 
 ---
+## 📉 Schematic Diagram
+
+![Schematic](images/schematics.PNG)
+
+---
+
 ## Features
 
 - 1x USB-A male input (USB1)
