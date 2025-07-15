@@ -5,11 +5,17 @@ A simple 4-port USB 2.0 Hub designed using EasyEDA and custom PCB layout. This h
 ![USB Hub Render](usbhub.PNG)
 
 ---
-## 📉 Schematic Diagram
+## Back View
+
+![back](backview.PNG)
+
+---
+## Schematic Diagram
 
 ![Schematic](schematics.PNG)
 
 ---
+
 
 ## Features
 
