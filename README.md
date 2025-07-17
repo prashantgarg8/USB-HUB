@@ -42,6 +42,7 @@ A simple 4-port USB 2.0 Hub designed using EasyEDA and custom PCB layout. This h
 | 4  | USB-A Male Connector   | USB1                       | USB-A-TH\_U-G-04DD | 1        | U-G-04DD-W-1       | 韩电韩瑞         |
 | 5  | USB-A Female Connector | USB2, USB3, USB4, USB5     | USB-A-TH\_C49474   | 4        | 903-131A1011D10100 | 精拓金电         |
 ---
+Total cost- 28$ 
 ## License
 
 This project is licensed under the MIT License.
